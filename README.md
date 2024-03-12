@@ -1,3 +1,3 @@
 # website-flow
-Mon fromage préféré est surement l'Ortolan.
+Mon fromage préféré est sûrement l'Ortolan.
 
